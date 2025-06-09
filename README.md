@@ -7,7 +7,6 @@
 ## 📫 Contact Me
 - Email: sahilrathod222@gmail.com  
 - Phone: +91 6354764264  
-- Instagram | Facebook: [Links](https://instagram.com/), [Links](https://facebook.com/)
 
 ---
 
