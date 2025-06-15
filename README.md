@@ -6,7 +6,6 @@
 
 ## 📫 Contact Me
 - Email: sahilrathod222@gmail.com  
-- Phone: +91 6354764264  
 
 ---
 
