@@ -12,9 +12,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sahil6354764&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil6354764&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil6354764&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=developershahil&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=developershahil&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developershahil&layout=compact&theme=radical" />
 </p>
 
 ---
