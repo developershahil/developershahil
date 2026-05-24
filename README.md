@@ -1,34 +1,42 @@
 # Hi 👋, I'm Rathod Sahil  
 
-### 🚀 Freelance Backend Developer | ASP.NET • PHP • Scalable APIs  
+### 🚀 Freelance Full Stack Developer | ASP.NET • PHP • React.js • Scalable APIs  
 
 ---
 
 ## 🧠 About Me
-- 💼 Freelance Backend Developer working on real-world client projects  
-- 💻 Specialized in building **scalable backend systems & REST APIs**  
-- ⚡ Strong expertise in **ASP.NET, PHP (Laravel), SQL Server & MySQL**  
-- 🔐 Focused on **secure, optimized, and production-ready applications**  
-- 🌱 Currently learning **System Design & High-Performance Architectures**
+- 💼 Freelance Full Stack Developer working on real-world client projects  
+- 💻 Specialized in building scalable backend systems, REST APIs & modern frontend applications  
+- ⚡ Strong expertise in ASP.NET, PHP (Laravel), React.js, SQL Server & MySQL  
+- 🔐 Focused on secure, optimized, and production-ready applications  
+- 🌱 Currently learning System Design & High-Performance Architectures
 
 ---
 
 ## 💼 What I Do (Work Scenarios)
-- 🔧 Build complete **backend systems for web & mobile apps**
-- 🔗 Develop **REST APIs** for frontend & mobile integration  
-- 💳 Integrate **Payment Gateways, WhatsApp APIs & Third-party services**  
-- 🗄️ Design and optimize **database schemas & queries**  
-- 🔐 Implement **Authentication, Authorization & Security best practices**  
-- 🚀 Improve **application performance & scalability**
+- 🔧 Build complete backend systems for web & mobile apps  
+- 🎨 Develop responsive frontend applications using React.js  
+- 🔗 Create REST APIs for frontend & mobile integration  
+- 💳 Integrate Payment Gateways, WhatsApp APIs & Third-party services  
+- 🗄️ Design and optimize database schemas & queries  
+- 🔐 Implement Authentication, Authorization & Security best practices  
+- 🚀 Improve application performance & scalability
 
 ---
 
-## 🛠️ Core Backend Stack
+## 🛠️ Core Tech Stack
 
 ### ⚙️ Backend Technologies
 - ASP.NET / ASP.NET Core  
 - PHP (Laravel Framework)  
 - Node.js (Basic)  
+
+### 🎨 Frontend Technologies
+- React.js  
+- JavaScript  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
 
 ### 🗄️ Databases
 - SQL Server (Advanced)  
@@ -67,6 +75,7 @@ C# • PHP • JavaScript • Python • C++ • Kotlin
 
 ## 🚀 Live Work & Projects
 - 🔹 Backend APIs for Web & Mobile Applications  
+- 🔹 React.js Admin Panels & Dashboards  
 - 🔹 Database-driven systems with optimized queries  
 - 🔹 Third-party API integrations (Payments, Messaging, etc.)  
 
@@ -89,4 +98,4 @@ C# • PHP • JavaScript • Python • C++ • Kotlin
 
 ---
 
-⭐ *Building scalable backend systems & turning ideas into production-ready solutions*
+⭐ *Building scalable backend systems & modern web applications into production-ready solutions*
